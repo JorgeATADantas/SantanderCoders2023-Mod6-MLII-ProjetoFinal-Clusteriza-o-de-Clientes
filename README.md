@@ -22,6 +22,9 @@ As bibliotecas utilizadas foram:
 - Seaborn
 - Sklearn
 - Warnings
+- NumPy
+- Scipy
+- Sklearn
 
 ----------------------------------------------------------------------------
 <h1> <img height="40" width="40" src= "https://github.com/GabriellyAnisio/ML_Customer_Clustering/assets/89808695/048765de-d55b-4738-a7c9-f5d6c270a3ec" /> Equipe do Projeto </h1>
